@@ -1,6 +1,11 @@
 {
-	"userId": 77,
-	"id": 201,
-	"title": "write code sample",
-	"completed": false
-}
+	"posts": [
+	  {
+		"id": 1,
+		"title": "hello"
+	  }
+	],
+	"profile": {
+	  "name": "typicode"
+	}
+  }
